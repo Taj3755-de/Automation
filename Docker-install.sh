@@ -1,29 +1,5 @@
 #!/bin/bash
 
-echo -e "\e[1;32m \e[0m"
-echo -e "\e[1;32m \e[0m"
-echo -e "\e[1;32m       ]\                           / [       \e[0m"
-echo -e "\e[1;32m       ] \                         /  [  \e[0m"
-echo -e "\e[1;32m       ]  \    Aigilx Health      /   [  \e[0m"
-echo -e "\e[1;32m       ]   ]    Technology       [    [  \e[0m"
-echo -e "\e[1;32m       ]   ]                     [    [     \e[0m"
-echo -e "\e[1;32m       ]   ]___               ___[    [            ___                 _ _ _ _ _ _           \e[0m"
-echo -e "\e[1;32m       ]   ]  ]\             /[  [    [           /   \         !    /                   !    !                \      / \e[0m"
-echo -e "\e[1;32m       ]   ]  ] \           / [  [    [          /     \        !    |                   !    !                 \    /\e[0m"
-echo -e "\e[1;32m       ]   ]  ]  ]         [  [  [    [         /       \       !    |                   !    !                  \  /  \e[0m"
-echo -e "\e[1;32m       ]   ]  ]  ]__     __[  [  [    [        /         \      !    |                   !    !                   \/\e[0m"
-echo -e "\e[1;32m       ]   ]  ]  ] ]\ _ /[ [  [  [    [       /_ _ _ _ _ _\     !    |       _ _ _ _     !    !                   /\ \e[0m"
-echo -e "\e[1;32m       ]   ]  ]  ] ]     [ [  [  [    [      /             \    !    |         |    \    !    !                  /  \ \e[0m"
-echo -e "\e[1;32m       ]   ]  ]  ]_].....[_[  [  [    [     /               \   !    |         |     |   !    !                 /    \ \e[0m"
-echo -e "\e[1;32m       ]   ]  ]  ]         [  [  [    [    /                 \  !    \_  _ _ _ /     |   !    !_ _ _ _ _ _ _   /      \ \e[0m"
-echo -e "\e[1;32m       ]   ]  ] /           \ [  [    [       \e[0m"
-echo -e "\e[1;32m       ]   ]__]/             \[__[    [       \e[0m"
-echo -e "\e[1;32m       ]   ]                   \ [    [       \e[0m"
-echo -e "\e[1;32m       ]   ]                    \[    [       \e[0m"
-echo -e "\e[1;32m       ]   ]                     [    [       \e[0m"
-echo -e "\e[1;32m       ]  /                       \   [       \e[0m"
-echo -e "\e[1;32m       ] /                         \  [       \e[0m"
-echo -e "\e[1;32m       ]/                           \ [       \e[0m"
 
  yum install -y yum-utils device-mapper-persistent-data lvm2
  yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
